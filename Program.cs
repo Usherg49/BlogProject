@@ -1,5 +1,6 @@
 using BlogProject.Data;
 using BlogProject.Models;
+using BlogProject.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,6 +22,9 @@ builder.Services.AddIdentity<BlogUser, IdentityRole>(options => options.SignIn.R
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddRazorPages();
+
+//Add my custom DataServices class
+builder.Services.AddScoped<DataService>();
 
 var app = builder.Build();
 
