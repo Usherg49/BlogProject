@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPMIFtRES7DllU5qaJyj0bEVJcHa4eDvUTHIY9Pf3jppg0Iu/5xpQJPn52BFEM/ulteTZu1IGjWjshaZ0c1Jsw==",
+  "dgSpecHash": "EYBZQvGue76k/iOL2j7crirNKBAR5VROgY/3gW0+dnKKoS/mAocT5897dLhogGAVWbEjiWAg7fjIxsTEPT948Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\BlogProject.csproj",
+  "projectFilePath": "C:\\Users\\Usher\\source\\repos\\Usherg49\\BlogProject\\BlogProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usher\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usher\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

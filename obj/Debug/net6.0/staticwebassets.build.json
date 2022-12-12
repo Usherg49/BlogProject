@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kP7PhLdAiIRNmklcC8jzKO1kMUqg2VcFUToWys8/Ulg=",
+  "Hash": "AFQodP8I2sU0hxHspB0P2pV6FY4Rb7gG9iMVwlQtCmk=",
   "Source": "BlogProject",
   "BasePath": "_content/BlogProject",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BlogProject\\wwwroot",
       "Source": "BlogProject",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\",
       "BasePath": "_content/BlogProject",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\Usher\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlogProject.styles.css",
+      "Identity": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlogProject.styles.css",
       "SourceId": "BlogProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlogProject",
       "RelativePath": "BlogProject.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlogProject.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlogProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlogProject.bundle.scp.css",
+      "Identity": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlogProject.bundle.scp.css",
       "SourceId": "BlogProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlogProject",
       "RelativePath": "BlogProject.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlogProject.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlogProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\css\\styles.css",
       "SourceId": "BlogProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\",
       "BasePath": "_content/BlogProject",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\favicon.ico",
       "SourceId": "BlogProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\",
       "BasePath": "_content/BlogProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\images\\home-bg.jpg",
+      "Identity": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\images\\home-bg.jpg",
       "SourceId": "BlogProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\",
       "BasePath": "_content/BlogProject",
       "RelativePath": "images/home-bg.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\images\\post-sample-image.jpg",
+      "Identity": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\images\\post-sample-image.jpg",
       "SourceId": "BlogProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usher\\Documents\\Code\\BlogProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usher\\Source\\Repos\\Usherg49\\BlogProject\\wwwroot\\",
       "BasePath": "_content/BlogProject",
       "RelativePath": "images/post-sample-image.jpg",
       "AssetKind": "All",
